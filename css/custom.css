@@ -1,0 +1,53 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+.menu-link {
+    font-weight: normal;
+}
+
+#header-wrap {
+    background-color: #f5f7fb;
+}
+.tab-nav { padding: 0; border-bottom: none;}
+.tab-nav li a {
+    font-weight: normal;
+}
+h4 {
+    font-weight: normal;
+}
+a.ui-tabs-anchor {
+    letter-spacing: 1px;
+}
+#content {
+    background-color: #f5f7fb;
+}
+.tab-container { padding: 0; }
+.tab-content {
+    background-color: white;
+    padding: 30px;
+}
+
+.tab-nav li,
+.tab-nav li:first-child {
+    border: none;
+}
+h3 > span.subtitle {
+    color: gray!important;
+    font-size: 14px;
+}
+.btn-primary {
+    letter-spacing: 3px;
+    font-size: 16px;
+}
+.button-circle {
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+.button.button-circle.button-light.button-3d:hover {
+    background-color: #2765F6!important;
+    color: white;
+}
